@@ -21,8 +21,8 @@ You will need:
 You will need a list of unique network codes and years for the seismic data:  
 `network_codes = [('IU', '2000'),('US', '2005')]`
 
-### Making a network_codes list:
-#### 1. Generate a network_codes list
+### Making a network_codes list (2 options):
+#### 1. Make a network_codes list with a pre-written function
 
 Use the `make_network_codes_list()` function to generate a list of unique network/year combinations from your locally stored seismic data.
 For this option you need to have `make_list=True`.  
