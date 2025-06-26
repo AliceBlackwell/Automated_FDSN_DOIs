@@ -165,7 +165,6 @@ make_list = True
 if make_list:
     parent_data_dir = "Processed/"
     output_file = "network_years.txt"
-    make_networks_code_years_list = True
     network_codes = make_network_codes_list(parent_data_dir, output_file)
 else:
     '''modify to load/make your own network_codes list'''
