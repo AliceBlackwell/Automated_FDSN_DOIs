@@ -73,3 +73,4 @@ The output file is named dois_list.txt, it contains one line per unique network.
 |--------------|--------------------------------------------------------------------------------------------------------------------------------|------------|----------|-----------------------------------------------------|
 | 1M           | Irish Seismological Lithospheric Experiment / Irish Seismological Upper Mantle Experiment (ISLE/ISUME)                        | 2003       | 2015     | [https://doi.org/10.14470/6Z7558576550](https://doi.org/10.14470/6Z7558576550) |
 
+https://doi.org/10.5281/zenodo.19100120
